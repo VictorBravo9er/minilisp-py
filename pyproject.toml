@@ -1,0 +1,11 @@
+[project]
+name = "minilisp-py"
+version = "0.1.0"
+description = "Lightweight Lisp/Scheme-like AST interpreter and runtime"
+authors = [{ name = "Vikramjit Borah", email = "vikramjitborah@gmail.com" }]
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
